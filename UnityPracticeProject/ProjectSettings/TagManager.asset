@@ -44,6 +44,9 @@ TagManager:
   - name: Middleground
     uniqueID: 3891254447
     locked: 0
+  - name: Tiles
+    uniqueID: 1137750677
+    locked: 0
   - name: Foreground
     uniqueID: 2592317275
     locked: 0
